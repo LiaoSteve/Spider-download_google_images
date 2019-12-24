@@ -3,5 +3,5 @@
 
 
 - [x]  pip install google_images_download
-
-[see here](https://github.com/hardikvasa/google-images-download)
+<hr></hr>
+[See here](https://github.com/hardikvasa/google-images-download)
